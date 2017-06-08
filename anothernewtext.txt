@@ -1,8 +1,7 @@
 <<<<<<< HEAD
 
 
-
-I am testing the workflow. 
+I am testing.  
 =======
 This is a test. 
 >>>>>>> b4761cd57fb7cde2ba161f7d44202e6779b5b2d9
